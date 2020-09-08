@@ -1,0 +1,10 @@
+D:\jonat\Documents\Visual Studio 2017\Projects\MVCDataFromDatabaseToForm\MVCDemoDB\bin\Debug\MVCDemoDB.dacpac
+D:\jonat\Documents\Visual Studio 2017\Projects\MVCDataFromDatabaseToForm\MVCDemoDB\bin\Debug\MVCDemoDB.dll
+D:\jonat\Documents\Visual Studio 2017\Projects\MVCDataFromDatabaseToForm\MVCDemoDB\bin\Debug\MVCDemoDB.pdb
+D:\jonat\Documents\Visual Studio 2017\Projects\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\MVCDemoDB.sqlprojAssemblyReference.cache
+D:\jonat\Documents\Visual Studio 2017\Projects\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\Model.xml
+D:\jonat\Documents\Visual Studio 2017\Projects\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\refactor.xml
+D:\jonat\Documents\Visual Studio 2017\Projects\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\postdeploy.sql
+D:\jonat\Documents\Visual Studio 2017\Projects\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\predeploy.sql
+D:\jonat\Documents\Visual Studio 2017\Projects\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\MVCDemoDB.dll
+D:\jonat\Documents\Visual Studio 2017\Projects\MVCDataFromDatabaseToForm\MVCDemoDB\obj\Debug\MVCDemoDB.pdb

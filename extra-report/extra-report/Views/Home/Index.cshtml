@@ -1,0 +1,22 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+@section DevExpressStyles
+{
+    @Html.DevExpress().GetStyleSheets(
+        new StyleSheet { ExtensionSuite = ExtensionSuite.NavigationAndLayout },
+        new StyleSheet { ExtensionSuite = ExtensionSuite.Report }
+    )
+}
+
+@section DevExpressScripts
+{
+    @Html.DevExpress().GetScripts( 
+        new Script { ExtensionSuite = ExtensionSuite.NavigationAndLayout },
+        new Script { ExtensionSuite = ExtensionSuite.Report }
+    )
+}
+@Html.DevExpress().WebDocumentViewer(settings => {
+    settings.Name = "WebDocumentViewer";
+
+}).Bind(new DevExpress.XtraReports.Web.CachedReportSourceWeb(new extra_report.Reports.XtraReport1())).GetHtml()

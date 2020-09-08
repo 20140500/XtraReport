@@ -1,0 +1,17 @@
+D:\jonat\Documents\Visual Studio 2017\Projects\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\DataLibrary.dll
+D:\jonat\Documents\Visual Studio 2017\Projects\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\DataLibrary.pdb
+D:\jonat\Documents\Visual Studio 2017\Projects\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\Dapper.dll
+D:\jonat\Documents\Visual Studio 2017\Projects\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\jonat\Documents\Visual Studio 2017\Projects\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\System.Security.AccessControl.dll
+D:\jonat\Documents\Visual Studio 2017\Projects\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\System.Security.Permissions.dll
+D:\jonat\Documents\Visual Studio 2017\Projects\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\System.Security.Principal.Windows.dll
+D:\jonat\Documents\Visual Studio 2017\Projects\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\Dapper.xml
+D:\jonat\Documents\Visual Studio 2017\Projects\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\jonat\Documents\Visual Studio 2017\Projects\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\System.Security.AccessControl.xml
+D:\jonat\Documents\Visual Studio 2017\Projects\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\System.Security.Permissions.xml
+D:\jonat\Documents\Visual Studio 2017\Projects\MVCDataFromDatabaseToForm\DataLibrary\bin\Debug\System.Security.Principal.Windows.xml
+D:\jonat\Documents\Visual Studio 2017\Projects\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+D:\jonat\Documents\Visual Studio 2017\Projects\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+D:\jonat\Documents\Visual Studio 2017\Projects\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+D:\jonat\Documents\Visual Studio 2017\Projects\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.dll
+D:\jonat\Documents\Visual Studio 2017\Projects\MVCDataFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.pdb
